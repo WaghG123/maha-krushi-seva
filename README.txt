@@ -32,7 +32,18 @@ IF AUTOMATIC UPDATES DO NOT APPEAR
 - Ensure updates.json is in repository root.
 - Open Actions and manually run the workflow.
 - Check the workflow log for feed or permission errors.
+<section id="about">
+    <h2>About the Author</h2>
 
+    <p><strong>Name:</strong> Your Full Name</p>
+
+    <p>
+        <strong>Gajananwagh359@gmail.com:</strong>
+        <a href="mailto:yourname@example.com">
+            Wagh G
+        </a>
+    </p>
+</section>
 LIMITATIONS
 - Static website, no admin dashboard or database.
 - Headlines update automatically; full articles are not copied.
